@@ -1,0 +1,7 @@
+README.md
+setup.py
+tanayResume
+tanayResume.egg-info/PKG-INFO
+tanayResume.egg-info/SOURCES.txt
+tanayResume.egg-info/dependency_links.txt
+tanayResume.egg-info/top_level.txt
